@@ -2,12 +2,17 @@
 layout: home
 permalink: /
 
-title: "Olga's Webseite"
-excerpt: "Ich bin Viktors Mama"
+title: "GitHub Webseite"
+excerpt: "Formatvorlage: Die Techniker Webseite Version 1.1"
 action: true
-#action_btn:
 ---
 
-# Hallo Welt
-- ich heiße OLGA 
+# Formatforlage Die Techiker Webseite Version 1.1
 
+**+ Workflow**\
+**+ Startseite**\
+**+ README**
+
+- Sprache: Deutsch
+- Erstellt von: Die Techniker, jekjll
+- Commit über: GitHub
